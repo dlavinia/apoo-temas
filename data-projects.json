@@ -1,0 +1,162 @@
+[
+  {
+    "title": "WebMart",
+    "description": "Um sistema de comércio eletrônico para pequenas empresas.",
+    "step": "1",
+    "leader": "Alice Silva",
+    "startdate": "2023-01-15",
+    "thumbnail": ""
+  },
+  {
+    "title": "TourGuide",
+    "description": "Um aplicativo para turismo que fornece informações sobre atrações locais.",
+    "step": "2",
+    "leader": "Carlos Santos",
+    "startdate": "2023-02-20",
+    "thumbnail": ""
+  },
+  {
+    "title": "eLearnPro",
+    "description": "Uma plataforma de aprendizado online para cursos de programação.",
+    "step": "3",
+    "leader": "Eduardo Rodrigues",
+    "startdate": "2023-03-10",
+    "thumbnail": ""
+  },
+  {
+    "title": "FoodieHub",
+    "description": "Um sistema de entrega de alimentos com foco em restaurantes locais.",
+    "step": "1",
+    "leader": "Fernanda Oliveira",
+    "startdate": "2023-04-05",
+    "thumbnail": ""
+  },
+  {
+    "title": "HealthTrack",
+    "description": "Um aplicativo de rastreamento de atividades físicas e saúde.",
+    "step": "2",
+    "leader": "Gustavo Pereira",
+    "startdate": "2023-05-15",
+    "thumbnail": ""
+  },
+  {
+    "title": "EventPlanner",
+    "description": "Uma ferramenta para planejar e organizar eventos sociais.",
+    "step": "3",
+    "leader": "Isabela Costa",
+    "startdate": "2023-06-20",
+    "thumbnail": ""
+  },
+  {
+    "title": "EnviroCare",
+    "description": "Um sistema de monitoramento ambiental para áreas urbanas.",
+    "step": "1",
+    "leader": "João Santos",
+    "startdate": "2023-07-10",
+    "thumbnail": ""
+  },
+  {
+    "title": "JobFinder",
+    "description": "Um aplicativo de busca de empregos para recém-formados.",
+    "step": "2",
+    "leader": "Luciana Silva",
+    "startdate": "2023-08-05",
+    "thumbnail": ""
+  },
+  {
+    "title": "FinTechX",
+    "description": "Uma plataforma de serviços financeiros inovadores.",
+    "step": "3",
+    "leader": "Miguel Pereira",
+    "startdate": "2023-09-15",
+    "thumbnail": ""
+  },
+  {
+    "title": "ArtGallery",
+    "description": "Uma galeria virtual para artistas locais exibirem suas obras.",
+    "step": "1",
+    "leader": "Natalia Oliveira",
+    "startdate": "2023-10-10",
+    "thumbnail": ""
+  },
+  {
+    "title": "EcoClean",
+    "description": "Um aplicativo para agendamento de serviços de limpeza ecológica.",
+    "step": "2",
+    "leader": "Oliver Carvalho",
+    "startdate": "2023-11-05",
+    "thumbnail": ""
+  },
+  {
+    "title": "TechSupport",
+    "description": "Uma plataforma de suporte técnico online para dispositivos eletrônicos.",
+    "step": "3",
+    "leader": "Paula Santos",
+    "startdate": "2023-12-15",
+    "thumbnail": ""
+  },
+  {
+    "title": "SmartHome",
+    "description": "Um sistema de automação residencial controlado por dispositivos móveis.",
+    "step": "1",
+    "leader": "Ricardo Oliveira",
+    "startdate": "2024-01-10",
+    "thumbnail": ""
+  },
+  {
+    "title": "GreenEats",
+    "description": "Um aplicativo de entrega de alimentos orgânicos e saudáveis.",
+    "step": "2",
+    "leader": "Sofia Lima",
+    "startdate": "2024-02-05",
+    "thumbnail": ""
+  },
+  {
+    "title": "StudyBuddy",
+    "description": "Uma plataforma de estudos colaborativos para estudantes universitários.",
+    "step": "3",
+    "leader": "Thiago Silva",
+    "startdate": "2024-03-15",
+    "thumbnail": ""
+  },
+  {
+    "title": "JobMatch",
+    "description": "Um aplicativo de busca de empregos com base em correspondência de habilidades.",
+    "step": "1",
+    "leader": "Ursula Ferreira",
+    "startdate": "2024-04-10",
+    "thumbnail": ""
+  },
+  {
+    "title": "TravelPlanner",
+    "description": "Uma ferramenta para planejar itinerários de viagem personalizados.",
+    "step": "2",
+    "leader": "Vicente Costa",
+    "startdate": "2024-05-05",
+    "thumbnail": ""
+  },
+  {
+    "title": "EduTechPro",
+    "description": "Uma plataforma de ensino à distância para escolas locais.",
+    "step": "3",
+    "leader": "William Santos",
+    "startdate": "2024-06-15",
+    "thumbnail": ""
+  },
+  {
+    "title": "PetCare",
+    "description": "Um aplicativo para rastreamento e cuidados com animais de estimação.",
+    "step": "1",
+    "leader": "Ximena Oliveira",
+    "startdate": "2024-07-10",
+    "thumbnail": ""
+  },
+  {
+    "title": "LocalMarket",
+    "description": "Uma plataforma de comércio eletrônico para pequenos negócios locais.",
+    "step": "2",
+    "leader": "Yasmin Lima",
+    "startdate": "2024-08-05",
+    "thumbnail": ""
+  }
+]
