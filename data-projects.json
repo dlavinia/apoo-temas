@@ -1,5 +1,6 @@
 [
-  {
+  {  
+    "id": 1,
     "title": "WebMart",
     "description": "Um sistema de comércio eletrônico para pequenas empresas.",
     "step": "1",
@@ -7,7 +8,8 @@
     "startdate": "2023-01-15",
     "thumbnail": ""
   },
-  {
+  { 
+    "id": 2,
     "title": "TourGuide",
     "description": "Um aplicativo para turismo que fornece informações sobre atrações locais.",
     "step": "2",
@@ -16,6 +18,7 @@
     "thumbnail": ""
   },
   {
+    "id": 3,
     "title": "eLearnPro",
     "description": "Uma plataforma de aprendizado online para cursos de programação.",
     "step": "3",
@@ -24,6 +27,7 @@
     "thumbnail": ""
   },
   {
+    "id": 4,
     "title": "FoodieHub",
     "description": "Um sistema de entrega de alimentos com foco em restaurantes locais.",
     "step": "1",
@@ -32,6 +36,16 @@
     "thumbnail": ""
   },
   {
+    "id": 4,
+    "title": "LocalMarket",
+    "description": "Uma plataforma de comércio eletrônico para pequenos negócios locais.",
+    "step": "2",
+    "leader": "Yasmin Lima",
+    "startdate": "2024-08-05",
+    "thumbnail": ""
+  },
+  {
+    "id": 6.
     "title": "HealthTrack",
     "description": "Um aplicativo de rastreamento de atividades físicas e saúde.",
     "step": "2",
@@ -40,6 +54,7 @@
     "thumbnail": ""
   },
   {
+    "id": 7.
     "title": "EventPlanner",
     "description": "Uma ferramenta para planejar e organizar eventos sociais.",
     "step": "3",
@@ -48,6 +63,7 @@
     "thumbnail": ""
   },
   {
+    "id": 8.
     "title": "EnviroCare",
     "description": "Um sistema de monitoramento ambiental para áreas urbanas.",
     "step": "1",
@@ -56,6 +72,7 @@
     "thumbnail": ""
   },
   {
+    "id": 9.
     "title": "JobFinder",
     "description": "Um aplicativo de busca de empregos para recém-formados.",
     "step": "2",
@@ -64,6 +81,7 @@
     "thumbnail": ""
   },
   {
+    "id": 10.
     "title": "FinTechX",
     "description": "Uma plataforma de serviços financeiros inovadores.",
     "step": "3",
@@ -72,6 +90,7 @@
     "thumbnail": ""
   },
   {
+    "id": 11.
     "title": "ArtGallery",
     "description": "Uma galeria virtual para artistas locais exibirem suas obras.",
     "step": "1",
@@ -80,6 +99,7 @@
     "thumbnail": ""
   },
   {
+    "id": 12.
     "title": "EcoClean",
     "description": "Um aplicativo para agendamento de serviços de limpeza ecológica.",
     "step": "2",
@@ -88,6 +108,7 @@
     "thumbnail": ""
   },
   {
+    "id": 13.
     "title": "TechSupport",
     "description": "Uma plataforma de suporte técnico online para dispositivos eletrônicos.",
     "step": "3",
@@ -95,7 +116,8 @@
     "startdate": "2023-12-15",
     "thumbnail": ""
   },
-  {
+  { 
+    "id": 14.
     "title": "SmartHome",
     "description": "Um sistema de automação residencial controlado por dispositivos móveis.",
     "step": "1",
@@ -104,6 +126,7 @@
     "thumbnail": ""
   },
   {
+    "id": 15.
     "title": "GreenEats",
     "description": "Um aplicativo de entrega de alimentos orgânicos e saudáveis.",
     "step": "2",
@@ -112,6 +135,7 @@
     "thumbnail": ""
   },
   {
+    "id": 16,
     "title": "StudyBuddy",
     "description": "Uma plataforma de estudos colaborativos para estudantes universitários.",
     "step": "3",
@@ -120,6 +144,7 @@
     "thumbnail": ""
   },
   {
+    "id": 17,
     "title": "JobMatch",
     "description": "Um aplicativo de busca de empregos com base em correspondência de habilidades.",
     "step": "1",
@@ -128,6 +153,7 @@
     "thumbnail": ""
   },
   {
+    "id": 18,
     "title": "TravelPlanner",
     "description": "Uma ferramenta para planejar itinerários de viagem personalizados.",
     "step": "2",
@@ -136,6 +162,7 @@
     "thumbnail": ""
   },
   {
+    "id": 19,
     "title": "EduTechPro",
     "description": "Uma plataforma de ensino à distância para escolas locais.",
     "step": "3",
@@ -144,6 +171,7 @@
     "thumbnail": ""
   },
   {
+    "id": 20,
     "title": "PetCare",
     "description": "Um aplicativo para rastreamento e cuidados com animais de estimação.",
     "step": "1",
@@ -151,12 +179,4 @@
     "startdate": "2024-07-10",
     "thumbnail": ""
   },
-  {
-    "title": "LocalMarket",
-    "description": "Uma plataforma de comércio eletrônico para pequenos negócios locais.",
-    "step": "2",
-    "leader": "Yasmin Lima",
-    "startdate": "2024-08-05",
-    "thumbnail": ""
-  }
 ]
